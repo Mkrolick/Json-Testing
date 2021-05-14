@@ -1,0 +1,200 @@
+{
+   "submissions":[
+      {
+         "id":6059982,
+         "completed_time":"2021-05-13T15:58:57.766Z",
+         "survey_id":140492,
+         "contact_id":null,
+         "state":"COMPLETED",
+         "channel_id":2360564,
+         "language":"en",
+         "contact":null,
+         "channel":{
+            "name":"Web Link Share",
+            "type":"LINK",
+            "status":"ACTIVE"
+         },
+         "answers":[
+            {
+               "answer":4,
+               "step":10,
+               "question":" Are you an athlete or do you aspire to be one?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2131066,
+               "skipped":false
+            },
+            {
+               "answer":8,
+               "step":10,
+               "question":" On a scale of 1-10 how horny are you?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2131067,
+               "skipped":false
+            },
+            {
+               "answer":4,
+               "step":10,
+               "question":" Do you like mindless games?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2131068,
+               "skipped":false
+            },
+            {
+               "answer":7,
+               "step":10,
+               "question":" Do you like tycoons?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2131069,
+               "skipped":false
+            },
+            {
+               "answer":4,
+               "step":10,
+               "question":" Do you feel safe online?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2131070,
+               "skipped":false
+            },
+            {
+               "answer":"2021-05-13T15:58:49.766Z",
+               "question_id":"startTime"
+            },
+            {
+               "answer":"Thu May 13 2021 15:58:49 GMT+0000 (Coordinated Universal Time)",
+               "question_id":"submittedTime"
+            },
+            {
+               "answer":"null",
+               "question_id":"ip"
+            },
+            {
+               "answer":"COMPUTER",
+               "question_id":"deviceType"
+            },
+            {
+               "answer":"null",
+               "question_id":"location"
+            },
+            {
+               "answer":"Chrome 90.0.4430.212",
+               "question_id":"browser"
+            },
+            {
+               "answer":"en-US",
+               "question_id":"browserLanguage"
+            },
+            {
+               "answer":"Windows NT 10.0",
+               "question_id":"os"
+            },
+            {
+               "answer":"America/New_York",
+               "question_id":"timeZone"
+            },
+            {
+               "question_id":"totalScore"
+            }
+         ]
+      }
+   ],
+   "hasNextPage":false,
+   "questions":[
+      {
+         "question":" Do you feel safe online?",
+         "id":2131070
+      },
+      {
+         "question":" Do you like tycoons?",
+         "id":2131069
+      },
+      {
+         "question":" Do you like mindless games?",
+         "id":2131068
+      },
+      {
+         "question":" On a scale of 1-10 how horny are you?",
+         "id":2131067
+      },
+      {
+         "question":" Are you an athlete or do you aspire to be one?",
+         "id":2131066
+      },
+      {
+         "question":"Contact param",
+         "id":"firstName"
+      },
+      {
+         "question":"Contact param",
+         "id":"lastName"
+      },
+      {
+         "question":"Contact param",
+         "id":"email"
+      },
+      {
+         "question":"Contact param",
+         "id":"mobile"
+      },
+      {
+         "question":"Contact param",
+         "id":"phone"
+      },
+      {
+         "question":"Contact param",
+         "id":"jobTitle"
+      },
+      {
+         "question":"Start Time",
+         "id":"startTime"
+      },
+      {
+         "question":"Submitted Time",
+         "id":"submittedTime"
+      },
+      {
+         "question":"ip Address",
+         "id":"ip"
+      },
+      {
+         "question":"Device",
+         "id":"deviceType"
+      },
+      {
+         "question":"Location",
+         "id":"location"
+      },
+      {
+         "question":"Browser",
+         "id":"browser"
+      },
+      {
+         "question":"Browser Language",
+         "id":"browserLanguage"
+      },
+      {
+         "question":"OS",
+         "id":"os"
+      },
+      {
+         "question":"Time Zone",
+         "id":"timeZone"
+      },
+      {
+         "question":"Total Score",
+         "id":"totalScore"
+      }
+   ],
+   "surveyName":"popcorn - Testing Table",
+   "resultLink":"https://social-saber.surveysparrow.com/survey/140492/reports",
+   "count":1
+}
