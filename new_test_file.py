@@ -22,8 +22,8 @@ for x in range(len(jsonResponse["submissions"])):
     for i in range(len(d)):
         key = str([x for x in d.items()][i][0])
         try:
-            d[key] = jsonResponse["submissions"][x]["answers"][i]["answer"]
-            print(d[key] )
+            d[key] = d[key] + jsonResponse["submissions"][x]["answers"][i]["answer"]
+            print(d[key])
         except:
             pass
 

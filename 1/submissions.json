@@ -1,0 +1,306 @@
+{
+   "submissions":[
+      {
+         "id":6078750,
+         "completed_time":"2021-05-14T23:58:36.244Z",
+         "survey_id":140765,
+         "contact_id":"None",
+         "state":"COMPLETED",
+         "channel_id":2361225,
+         "language":"en",
+         "contact":"None",
+         "channel":{
+            "name":"Web Link Share",
+            "type":"LINK",
+            "status":"ACTIVE"
+         },
+         "answers":[
+            {
+               "answer":5,
+               "step":10,
+               "question":" Are you an athlete or do you aspire to be one?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136076,
+               "skipped":false
+            },
+            {
+               "answer":7,
+               "step":10,
+               "question":" On a scale of 1-10 how horny are you?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136077,
+               "skipped":false
+            },
+            {
+               "answer":3,
+               "step":10,
+               "question":" Do you like shooter games?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136078,
+               "skipped":false
+            },
+            {
+               "answer":8,
+               "step":10,
+               "question":" Do you like mindless games?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136079,
+               "skipped":false
+            },
+            {
+               "answer":4,
+               "step":10,
+               "question":" Question Text",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136080,
+               "skipped":false
+            },
+            {
+               "answer":"2021-05-14T23:58:28.244Z",
+               "question_id":"startTime"
+            },
+            {
+               "answer":"Fri May 14 2021 23:58:28 GMT+0000 (Coordinated Universal Time)",
+               "question_id":"submittedTime"
+            },
+            {
+               "answer":"null",
+               "question_id":"ip"
+            },
+            {
+               "answer":"COMPUTER",
+               "question_id":"deviceType"
+            },
+            {
+               "answer":"null",
+               "question_id":"location"
+            },
+            {
+               "answer":"Chrome 90.0.4430.212",
+               "question_id":"browser"
+            },
+            {
+               "answer":"en-US",
+               "question_id":"browserLanguage"
+            },
+            {
+               "answer":"Windows NT 10.0",
+               "question_id":"os"
+            },
+            {
+               "answer":"America/New_York",
+               "question_id":"timeZone"
+            },
+            {
+               "question_id":"totalScore"
+            }
+         ]
+      },
+      {
+         "id":6078713,
+         "completed_time":"2021-05-14T23:51:10.579Z",
+         "survey_id":140765,
+         "contact_id":"None",
+         "state":"COMPLETED",
+         "channel_id":2361225,
+         "language":"en",
+         "contact":"None",
+         "channel":{
+            "name":"Web Link Share",
+            "type":"LINK",
+            "status":"ACTIVE"
+         },
+         "answers":[
+            {
+               "answer":4,
+               "step":10,
+               "question":" Are you an athlete or do you aspire to be one?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136076,
+               "skipped":false
+            },
+            {
+               "answer":7,
+               "step":10,
+               "question":" On a scale of 1-10 how horny are you?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136077,
+               "skipped":false
+            },
+            {
+               "answer":2,
+               "step":10,
+               "question":" Do you like shooter games?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136078,
+               "skipped":false
+            },
+            {
+               "answer":9,
+               "step":10,
+               "question":" Do you like mindless games?",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136079,
+               "skipped":false
+            },
+            {
+               "answer":2,
+               "step":10,
+               "question":" Question Text",
+               "question_tags":[
+                  
+               ],
+               "question_id":2136080,
+               "skipped":false
+            },
+            {
+               "answer":"2021-05-14T23:51:02.579Z",
+               "question_id":"startTime"
+            },
+            {
+               "answer":"Fri May 14 2021 23:51:02 GMT+0000 (Coordinated Universal Time)",
+               "question_id":"submittedTime"
+            },
+            {
+               "answer":"null",
+               "question_id":"ip"
+            },
+            {
+               "answer":"COMPUTER",
+               "question_id":"deviceType"
+            },
+            {
+               "answer":"null",
+               "question_id":"location"
+            },
+            {
+               "answer":"Chrome 90.0.4430.212",
+               "question_id":"browser"
+            },
+            {
+               "answer":"en-US",
+               "question_id":"browserLanguage"
+            },
+            {
+               "answer":"Windows NT 10.0",
+               "question_id":"os"
+            },
+            {
+               "answer":"America/New_York",
+               "question_id":"timeZone"
+            },
+            {
+               "question_id":"totalScore"
+            }
+         ]
+      }
+   ],
+   "hasNextPage":false,
+   "questions":[
+      {
+         "question":" Question Text",
+         "id":2136080
+      },
+      {
+         "question":" Do you like mindless games?",
+         "id":2136079
+      },
+      {
+         "question":" Do you like shooter games?",
+         "id":2136078
+      },
+      {
+         "question":" On a scale of 1-10 how horny are you?",
+         "id":2136077
+      },
+      {
+         "question":" Are you an athlete or do you aspire to be one?",
+         "id":2136076
+      },
+      {
+         "question":"Contact param",
+         "id":"firstName"
+      },
+      {
+         "question":"Contact param",
+         "id":"lastName"
+      },
+      {
+         "question":"Contact param",
+         "id":"email"
+      },
+      {
+         "question":"Contact param",
+         "id":"mobile"
+      },
+      {
+         "question":"Contact param",
+         "id":"phone"
+      },
+      {
+         "question":"Contact param",
+         "id":"jobTitle"
+      },
+      {
+         "question":"Start Time",
+         "id":"startTime"
+      },
+      {
+         "question":"Submitted Time",
+         "id":"submittedTime"
+      },
+      {
+         "question":"ip Address",
+         "id":"ip"
+      },
+      {
+         "question":"Device",
+         "id":"deviceType"
+      },
+      {
+         "question":"Location",
+         "id":"location"
+      },
+      {
+         "question":"Browser",
+         "id":"browser"
+      },
+      {
+         "question":"Browser Language",
+         "id":"browserLanguage"
+      },
+      {
+         "question":"OS",
+         "id":"os"
+      },
+      {
+         "question":"Time Zone",
+         "id":"timeZone"
+      },
+      {
+         "question":"Total Score",
+         "id":"totalScore"
+      }
+   ],
+   "surveyName":"popcorn - 2nd Testing Table",
+   "resultLink":"https://social-saber.surveysparrow.com/survey/140765/reports",
+   "count":2
+}
